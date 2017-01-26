@@ -1,0 +1,8 @@
+## Interface: 70100
+## Title: Some Rich Asshole for WOW
+## Version: 7.1.5
+## Author: Zandrae of Wyrmrest Accord (US), based on the "Some Rich Asshole Enhanced" addons for Firefox and Chrome.
+## Notes: Replaces "Trump" in chat.
+## X-Category: Chat
+## X-License: MIT License
+Some_Rich_Asshole_WOW.lua
