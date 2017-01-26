@@ -1,3 +1,30 @@
+--MIT License
+--(included because the fellow who made Some Rich Asshole used the MIT License.)
+
+--(c) 2017 Alex "Zandrae" Wright (Wyrmrest Accord-US) with a ton of help from
+--Bor Blasthammer (Wyrmrest Accord-US) who did most of the actual work.
+--Based on: Some Rich Asshole Firefox/Chrome Addon Copyright (c) 2015 Drew Wilson,
+--Some Rich Asshole Enhanced for Firefox (c) 2016 by "Strange," and
+--Some Rich Asshole Enhanced for Chrome (c) 2016 "williamdingiv."
+
+--Permission is hereby granted, free of charge, to any person obtaining a copy
+--of this software and associated documentation files (the "Software"), to deal
+--in the Software without restriction, including without limitation the rights
+--to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+--copies of the Software, and to permit persons to whom the Software is
+--furnished to do so, subject to the following conditions:
+
+--The above copyright notice and this permission notice shall be included in all
+--copies or substantial portions of the Software.
+
+--THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+--IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+--FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+--AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+--LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+--OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+--SOFTWARE.
+
 local getOut = {
     {
         pattern = "%f[%a][Dd][Oo][Nn][Aa][Ll][Dd]%s*[Tt][Rr][Uu][Mm][Pp]%f[%A]",
