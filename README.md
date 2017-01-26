@@ -1,4 +1,6 @@
 # SRA-WOW
 Some Rich Asshole for WOW
 
-Grab the Zip. Open it. Put it in your addon folder. Less Trump in Trade. 
+Grab the Zip. Open it. Put the folder in your addon folder. Less Trump in Trade. 
+
+This is an Alpha. The folder name will be changing eventually (meaning the old folder may need to be deleted manually by you). Check back here for updates.
