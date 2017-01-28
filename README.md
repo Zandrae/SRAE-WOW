@@ -1,4 +1,4 @@
-# SRA-WOW
+# SRAE-WOW
 Some Rich Asshole Extended for WOW
 
 Grab the Zip. Open it. Put the folder in your addon folder. Less Some Marmalade Manchild in Trade. 
