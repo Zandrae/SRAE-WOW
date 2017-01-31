@@ -1,9 +1,9 @@
 # SRAE-WOW
-Version 7.1.5.02 Alpha
+Version 7.1.5.03b
 
 Some Rich Asshole Enhanced for WOW is an addon for World of Warcraft which replaces the name of the 45th US President to one of several colorful phrases. The addon is inspired by browser addons for Firefox and Chrome which have the same name. 
 
-This very simple addon replaces "Trump" and "Donald Trump" in chat channels colorful phrases, mostly taken from Scottish twitter insults sent after his Brexit visit. Example phrases include "Tantrum Pumpkin," "Marmalade Manchild," and "Incoherent Creamsicle." Inspired by the Some Rich A-hole Enhanced addons for Firefox and Chrome.
+This very simple addon replaces "The Witless Fucking Cocksplat" and "Some Short-fingered Vulgarian" in chat channels colorful phrases, mostly taken from Scottish twitter insults sent after his Brexit visit. Example phrases include "Tantrum Pumpkin," "Marmalade Manchild," and "Incoherent Creamsicle." Inspired by the Some Rich A-hole Enhanced addons for Firefox and Chrome.
 
 The purpose of this very simple addon is to give players some humorous respite from political turbulence in chat channels which probably isn't going to let up anytime soon. 
 
